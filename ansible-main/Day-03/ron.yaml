@@ -1,0 +1,16 @@
+---
+name: 'ronald'
+age: 31
+work: false 
+task:
+  - youtube
+  - work
+  - chat
+  - gym
+  - pray
+
+address: 
+  street: "xianlu"
+  city: "nanjing"
+  country: "china"
+
